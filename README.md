@@ -7,5 +7,5 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ## Part One: Create the Earthquake Visualization
 
-## Results
+### Results
 <img width="1439" alt="Screenshot 2024-01-30 at 7 36 00 PM" src="https://github.com/brianne-han/leaflet-challenge/assets/142977736/9322fe06-bf1b-43d9-9315-fd83eeb22bb8">
